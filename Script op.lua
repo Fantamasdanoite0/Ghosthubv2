@@ -1,1 +1,126 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _CeWdtWvprtir = a; end)); krTAJCGzx_CyeIYF=_ENV;jEVkujvQqMarJoS='+3sHJi6X1R7)nAr(X6Hni7X1R6)RAs(o_rs7A1ris1J7ns_1(r3nH7i6SHHiiJXnJX7)nnrAvJAAisi717iinHrH(rs3H}JnX)177X13(6B6s(J33X6s7snyAAr/3bsnoXi)i6P1i6JJ6s1-RnJ)1sRJ3s3X7)3X1711XsJ37JAgr(ini1(i63XsJ(nJAH(s3)s7J(67Rs)31RRRA)37J6iJXrR))2nn()x6H3Ji6rJ)6R1XJ3inX7R1)6AJ)sXs6rJnXs1176nJr^Xnn6rH&336Hs63As(R/rsnJ766Y1J)6r1AR1nHA6(6X673)sAhrrD7)7rs81H3s3611RX1))A7()33Ri)pnrrnj7s1J6RJns7H)rAn(731H6iJRsA9)3661H73)(AA()iRAA)nrH(136HJix3AH6i1XXRH71n)rs6C1sRn)7A1671A7s)i6rRA77n1r6wsRAA7(7shH76HXr7s)RnAn73Js(i2X3i&usHXHrinX7R6H36r1r)Jnr(X3sH6JA636(7))1rHF6s3HUi(XLRX77ArJA6116nJ)JoAiO5)X)i)3/sAJ)6R1X7i(H1X661r7sndAr(776AJZ33sH9iXJrR77ns1J)6J1s7p)ni773n6AniJ1sRC7rnnr11Hnrr(((3rJRJ1Xn7))J)A(Js3sni3n7(s/6sJJsir(AH7i6XRRG)(1)Ar(21n)in1r62JsSnA(nsAJXHJXrRR)7A))76nRr71n6rJ#G7(r9NXsXJ6iCXRXJ)XAX(73XDrJV6)Xn7O)nrXiAX1R6)JAs(bfrRi1761RP7Jnsr4(n7iA((ss1HsiAi5Rn7rs7iX661J7s31JJJ(R31H7X)7rnsXH7H6i(6R1A)A1s7i)rAn(736Ai(63RsA7rA6r7K1s6Jscss3J6611Xi3)XrsrAXQR67nn7r1cJ7ArX(7HgH76i1J(631Hsi&6r17i366R6IJsAJuirXnR1ij6rR)7nA6rn!1sJJA6)rJ01suHrinX1s6HHX6R1X)sriX671176ns6(Rrn(rRAis6JH63X7RX33snJ761167JnsACHA3nJ6i1X6RJ)OXn1n)RAir6}Ks3J76X1H7r3AH1i6XJRs)Tnr3PJ7s1J)6J1s7z)ni)7s)(rHiJ1nRS7rnnr11rnrrnIRcnHni1Xs1JnHA((J3Xsri1J)177Hn3rY_X(1JR6X1H(63)HsiI6r17HH6sR37snRrAir1nR7)1A6(s7J),n1(7#AJAX6XX1377ns#nB6HXJXAX(s3tsrr3XrJ%6sgirsgi3rHni7rn(X36Hrii33snJ761167JFsH()r3nJ3i1X6RJ)LJnR6)3As(HAs1X7sn-Ar(n37H117)JRs)Xnrrnj71r)iA6rXE3s3JJ(A31H6iJaJsjiARJs)P1snJJ6s1T33HBJn631JR)iiX_1r7nn7r196OJ136 1XRn)7A1(J73A9&33)31JnX)1J,JsXJ<irXnR1JJX17X)^Hl6W6n1771nJ6777nrr7(7(iJ66H13R7)XR1n1K(s7Js61rip#3rHni7X1R6(A3s(M3ssnJ761r13AH6Ji(rs1H7i1X6RsHXX11776n(A3})3riJir1R(nsXH1i6XJRasnX6RX)3n6(3r(3nHA6#177631HAiJXsRS7ni7R676A3n6((1HRr)nA7(136HJR6)O1r))n7r1q6ssnr:1snJXi6X61s7rAR(nrRHJJ(6ir6!RssJ>irX7J7is13R)3sH7Jr6n1776iH1s)HnAnH(63iH6i)AJ8:32srJn61szss6sXsRAn)nn0Rs3J363XJR)krHsJ761167s6)1)79nHrXi)X6RJ)sA9rrnnXn516R1J7s6M763AJ6s3RXXXRs)CnrrnC7s1R(sJ1s7i)rAn(736)7(6;rHJ7rAnr7,1s6Js=s3rJ)6XXJ71)nAs((w7H)J66i1A7JsJJ)6_XrRn)166X1RlA7()3is7iin1rR0JssJ8A3(3(n)1An(J3sH-Jn3RsJJH6)1s2sirHrinX7R6JiXn1rcn337i331J1s6nH)7A)nrs)Hs3HJi(X1Rs)7A1J6JJsr(A6)X77R)6RH,6sssriAsR1n)1AXr6)(HLHr6)1F7inXR(7( cH<irsXX7)6n6(3r63(3H3XA((731H6iJXsX,3AGnr7}ns6JJ6srHx63AJn(13rHJisXS1nJ)XiR.7n7(nsA)Xr(J)7A1(63sAH(A3)Hii6H)Jr6nnAA7errHH7i71HRin%n)(n31s1iH6s1n7RnAAnCHsX((isXnR1X17Ar633HiJ<67Xn7n))A6L3stH163XxiRX6)6(1O7ssJ1s16R7RnJrOh3sH(7srXiR6)1n1(HnnrnJ1i7187H1snJ(s3(HJiRX)iH7(A6r#6J1X7v)rAn(17iAJ9i3(RI)Jnnr7/1sJnH#A37JJi7AAirXnR7)1A6(JRs,Rr)N6sJJs69XrRn)731(63AHsi46r17HHXZRs76n(rs86sHRA)1A6(J3sH&1rA)n771A3rJEssjHnAn31JiJsXsRA)(A?r1y111)RnJrswt3n))(13JHXJrXAJRRXAX(s&rs(i3HiHR16R))Ri)X6RJ)sAdrrvn61116R1J7sn0Ar(n37H1i6XJRX)Mnrrnc1n1r8d7sU7H)rAn(731H6iJ7JA.7rA1r7I1s6JsPR3rJri1X6RA)rr*_U3)sn7nANr1C6sJJs6fXrRn))A1(63JHsis6r1n77n1J1EJssJyirXnR7)1A6XH3sHBJr6A1771n6ri>ssVHrin1sR1)6AJ(L1Ann(13XHHJrX6rs>O3rHni7XnR6)JAs(M67snJ761167Jnsr}3rRiH7i1X6RJ)sA3rrUnXiJ1661J7JnaA((n37)Xi6XJRs)3nrrnQ7HoJ66J1s7mnJAn(731HJ(Avrs7iHX3r7J7s6JJ6sXr)R1()HsY%X(n7)rrHRiXXsJ37PnnR)(n31JX6iX6R67rAA7R36rii66JR376n)rAniAisRi613R6)3As(137s1c36bHARt7)nH)issJ6?(XnJ)7nA6(H3Xs67s)XX(711iHn6DX1R6)JAURR)Rnr(33i167(nsr^(r37A(FO3%H3irXARR7rA3r166767snvAr(7HiaA3JnA3rJnXR1r)HAiR(%D3nJ)6RX7R7)sAH(nn)sni6XsJH)JAJrE?,snJ76JHJ(13)HJisXY1nin6JRH7AsJir6{XrRn)1i673)(A77RV1HJ-H66RX7s)rrrw)36Ji33XrJA)rnn(RorHHiiHRHABsslHrinX7RR)XAJ(s3_HuJn671176nRrsPa3rH7(73sHnisAs(1ersnJ766UXi36(1RXr)7rXi1X6RJ)sAj(J_ns7J1X11i7snuAr(A37H1i6RJ7))fnrrn#7s1J16J1s)d)rAr(731H6iJXsRW)7nnr791s1JJ6s1WRrn6A7(136HJisX>1r7nA(r1,6sJJH6mXrRnAAA1(63JJJ6J6r1A77nRr6!JssJ6nXXnRn)1A6(J3HHzJ(6n17n6n6rJKss?HrinX7R1AiAJ(H3_H;Jn6n117nJrrsY33rJHi7XRR6)iAs(JH6snJ7611A7JnHrE>sJJH7i1X6)H)sA3rr3s)JJ1611J7nnDA((n3)H1i7RnRs)enr(6N7sRJ661777j)rAn3R31HXiJR1ni7rnrr73is6Ji6s11RrnlUs(136HJi(XP1(7nnr3&z6sJJsX(XrRA)7r7k73JHiifX31n77n1(11issJJir13R7)1A6(J37Hmi36n1n71nXrJ3JsrHri(X7Rn)6AJ(s3dHiJn6r1171nJrstD3rHri7X)R6)6As(JDrHsi)611R7JA1rz((3nH)i1X7)n)sALrrsss7JR6611n7nWAr(nHHH1iXXJRssnnr(3P7s)J66J1s7m(sAn((31HXiJXHRY)s(Jr7!1s6666s13Rrnrrr(13)HJi1X#1r7nAn6?T6s7Js6XXrRn)7A1x63JHRiVXs1n77n1r63)ssJ6ir1sR7)(A6(J3nHqiH6n1n71nXrJT6HKHrinX7)7)6Ai(sssJsJn6A117nnJrs-MHG)Ci7XnR6)6As(FUrsnRi611R7JnJr5((3nH7AXX6RJ)sA3rrMns7J(661J7sn_Ar(n37H1i6XRRs)>nr6d6)17)snR1i7q)rAn(731H6JJ)3RN7(nnr7B1sJJX6s10Rr)nA7(136XJiiXE1r7nn7r1p6RJ1s6:1JRn)7A16R117J)RAn(H7)nRr6eJssJmirXnR7)7A6(J3sHEiJ6n1771n6HX4sssHrinX7R1)6AJ>n3OH3Jn6)1176nJrs3s3rJti7XRR6)JAs(bsXsnJA61117JnJr/(rssH7i7X6RJ)sAHrrOnJJJ1661J7Hn%Ar(nJrH1i6XJRstnnrrA}7s1J66J1s7NH7An(n31H6iJXsR}7riJr7NRs6J66s1sRrrsH1(13XHJi1XE1(7nnnr1M7JnJs6!Xr7s)7AR(631i7iI6r1n)Xn1rX2JssRnirXAR7)RA6(J3sHen76n1n71n6rJgss*JJniX7R))6AJ(s33srJr6711nJnJrsSZ3rHni7X1R6)RAs(wvrsrJ761167JAnr5((3nHAi1XXRJ)6(1rrkns7X7661i7sn?H7(n3)H1i6XJRs)0nr61y7s7J66J1s7M)rAn1s31HXiJXJR;)8nn3eHAs6Ji6s)sRr)AA7((36H1X7X=1r7n(nr1&XsJJsrnXrRA)7A1(63JHsirX11n7An1315JsHJOi(XnRrrpA6(J3s6sJr6A1771ssrJNHsLJ3inX7R1)6J3(s3ssrJn671176A6((.Ns3HniAX1R6)JrJ53SrHjJ76)167Jnsr0j73nH)i1X7RJ)JAa3J3Rs7JR66737sn3Ar_M37HnXrXJRs).r)rn )s1J71n1s7e)rFr(73RH666r6RE7(nnr)d1s6JJXJ(JRr)rA7(A36HJisXQ377nnAr1%6sJJs6xRF3/)7An(63XHsi^6rR;)(n1r1uJiHJ_i(XnR7HJA6(73sH3Jr6n1771rHrJ=RsKJsinX7R1)6rs(s31sriC671176nJrJ<NsXHniAX1R6)JAs;3_rH6J761167JnsrT3J3nJii1X)RJ)sA!rr3ns7iJ661R7sn<Ar(n3)H1i(XJRr).AGrnI7J)J66n1s71)rri(731JRiJX)Rt)Hnnr751s6J66s11RrnJA7;336iJ6WXdR67nAsr1TnsJJs6sXr7H)7A((63nHsi^161n7)n1rn;JsRJ.6sL7R7)7A6363sH3Jr6nA)71nXrJbJsUHrinX7rR)6AJ(s3ssrJn6711sinJrsV!3(Hni7X1Rn)JAs(}wrHsJ761167s6)1)7!nHrXi1RARJ)sAornHsMHHr1nX16n3RiAR7)6AR({37H#iXX)RJ6Hns(J33s7J6)7)67X)7As(nn)s7i)6rRR7snHrn)n1W)T)nA7(13J)H(Sbns(J6XiJ31(n(r746sXJRsAH3XrR)Hsii6r1n77n6XH7sAHrAir1(R7)1A6(sR3nrr7_AsJiH3(6A7An1rJeisXK)m(inX31(srXH671176ns(AAiAnRiAR36Hsii6nR67nAH(X3BA(HrXO1A76nsH6HssHH6JrX1JX7Rn1(J!<H3JJ6(X1RRnsRsi6XJRs)CnrfJD7s1J66JRs7b)rAn(731H6iJXs717rnnr7Y1s6JJ6s1P7H)nA7(136HJisXQ1r)3n7r1!6siJs6{XrRnnsA1(X3JHsi26r1n)gnRr6TissJ1irXAR7)RA6(1H7H4Jr6nRs71nXrJh6J1HrinX77H)6Ai(sss7sJn6)117RnJrs,csJn6i7XRR6n As(3^rsAJ76n7r7JnsrjN73nH)i111D1)sA3rr33s7J166RJrJn_Ar(n3rH1iXXJ7JnJnrrnS7sRJ66J1s7b37An()31H6iJXsR4)Ji6r7gRs6i66s13Rr)AA7(nHrHJisX^7Z7nn)r1W7JnJs6LXr)3)7AR(6s676i{6(1n7nn1r6{Js1n7irXAR7nrA6(i3sH3JrX^)s71n6rJ31s?H(in1nqn)6Ai(s36srJn6711(3nJrsDOsvHni)X1R6HHAs(?ursAJ761167nnsrY(r3niui1X6RJ)KiRRR)JAE(33HcAJA61X)77)6riA(ssHAJn6(16)6n6J6XH1s7.)rA71HnHAr(73)HAHXX7Ri7JnXAr0r3rRrnsA7(136Hs(r3Rs1inX3r1YnsJJs6oXnJi6iX7RAn3Hs1s6r1n77n6l3AX()61J(JJ(HJiXJR))(n7()mrHRJs3(137<XRA7gJs5J3636rJ)7Ann(Rz1sJiHirX(R7X1RiAR36Hsii6nRX7)AJ)3n(rA7JnXr.(r3nH1Ni3lJxi6Al(i&ns7J16JHsJR6RX1R1)rH161XJRs)/nn1n71AirA(rs1Hri7X6R()AAn(s3(H3i66Rr)aRs6JJ6sRJRr)nA7(1HJHJisXx1nnX7t7Ai(7ArAb1sJJi6XH3RH)s1)rn36HsiHXH1_iAn3Ar(73AHJiiXrJr3sHiJr6n17766i167R)AHr63X7R1)6AsR(77A7(a671r76nJrs(rnHrJy736J3)JAn(v-rsnJ1(JssJ(6ZXr7iRnr1(7X672)sA8rrl777r63HEyJH6s1HRRniA6(AXJR7)unrrn417H(J33s(J16iiX(73AH6iJXs1rJr66Rw76s6J76s1hRr)71HRs)1A((rXfRs7nn7r1TJ76rrA7Xr7J)7A1(63s7r(13Rs7s7X611kJs7JtirXnR1H6XA1r7AAirn:R177An6rJSs3rrr(63nJi)6An(s3MsrJ7rrs6i1JQ17RA)nHn6HX1R6)JAyRR)nAXr6>Rsai46PrbNJ3nH7i1XJHAiAXsRi)Rs)J1661R7sn*Ar(773As(n3sRs)Anrrnk7s6AsassRHAJsX77nR6ri(s3RHA7rA3r7:1s6JsrjsXJn6sA7(136HJisRX1r7nn7(7XAsJJs6_13Rn)7A136siHsiz6r1n77Air6=JHAJbirXnR))1AX(JsJJ&Jr6n17)3n6rJ#sHsiXinX)R1)rAJ(s3lJriR671R76nirs*)3rin6(X1RX)JAH({3JsnJ7(H167insrs(r3nH7i1nnRJ)sA/rrOnsnJ1677n7snoAr3X37HRi6RJk)),AHrnOrs1ix6JRJ3J)rrH(73AH6iJXsRqs3nnr(p1sAJJ6J1u7J&7A7(A36J(isX31r7nn7rnsrsJJs60RRRn))A136iRHsii6rR#77A7r6sJ7 JY6HXnR()1A7(J3sJJJrX31777n6r6LsJDiOinX(R1))AJ(J3NJPiX671(76AHrsF.3rHn6JX1R))JAR(}39sni{X6167Rns()(r3AH7i1X6R1A7AKrr,nJiJ16X1JAsARArC*37JJi61iRsnsrsrnv(s1i66J1s79AQi-(73rH6iiXsRL7rnnHiv1s)JJ6J1mR()nrtJ336HJisX71r7An7r7=6s1676GXrRnnJA1(X3JHs7n6r1n77n1r6{Jss6cR(XnR7)1A6(JsiH%JrXi1777n6ri2sstHr6r1AR1)RAJo63ksrJn171A76nXrs=H3rJ7i7R17H)JAi(z33sni3611671nsrJ(r3nH7i1X676)rAc(H-nHsJ1661J7sA7Ar(n37HAi6XiRs)pJArnb7s1JX6J1s7PAnAn(731H6ARXsRs7rnnr7z1s6JJ)31d73)nA7(136HJisXn1r7rn7r1*6siJsXsRsRn)AA1(r3JHsiV6rRJ77n)r6qissJsirXn(6)1A7(J3sHcJr6nRmHsn6r1KssRHriAX7RR)6A1373_srJnXH117XnJr6s13rHni71rR6)iAs36JHsnJA61Rs7JnHrj((3nHr1_X6RJ)sAnrr9As7Jn1r1J7snbrn(n3)H1Xn7RRs)Hnrosv7sRJ6661s7Jr6An(731JniJXHRZn8rQr7&ns6J16s1.RrnrJr(13)HJiXX=1r7nn7HHo6s1Js6sXrRA)7r7_73JH6i>XJ1n77n1?6JRssJJir1#R7))A6(7X)HViH6n1771nXrJ^HsCHr63X7R1)6Ai(s3fsrJn)i1177nJrJ0o3(Hni7AJR6)1As(s_rsnJ761{37JnXrP(r3nH7i111Rn)sA6rr3Hs7J1661J7rnjri(n3nH1i6XJRs)(nr(sP7s(J66J1s7!nRAn(r31H6iJXsR47rAsr7Tns6JJ6s1oRr)nrH(136HJiHXz1r7n(irRV6sJiJ6HXrRn)7(3(63JHsi6Xi1n77n13iPJsHJlirXnRrr5A6(J3si(Jr6A1771J)rJ=ss5HrinX7R1)6sH(s33srJn671176nJ(nE_3rHni7X1RX)J(sHidrsnJ76116nins(ss(3nH)i1n)RJ)sAEQE3is7J766RA7sn?Arts1HH1iRXJRs)Un(rn.)s1J61s1s7<)rAA(731H6iJ7rRp)_nnrnV1sXJJXJ1sRr)rA7<J36HJis1s767nnAr1HisJJs6WRr)X)7A)(63XHsRi6rRr)1n1r7jJJ)JCirXn)7niA6(13sHJJrRR17)7n1rJbXsI6AinX7R1A6JJ(s3isri367A376A6rnVtsJHn1RX1R6)J(s(AwrHsJ76r16ARnsrzv13nJ3i1X6RJ)sAz%U3Rs7iL66AR7sndAr_rsRH1i(XJA7)Nnrrn3nJqJ66r1sn3)rAn(73nJiiJX7RSnrnnr)a1s6n.6s1nRrn3A7(136HJXHX R)7nAir1F6sJJsX%Xr71)7A7(636Hsig1u1n)3n1(3bJsrJ%ir1sR7)(A6F_3sH)JrX-3171nrrJ3ns^H(inX7ni)6An(s31srJn671rP(nJr7Qks3Hni)X1Rn)JAsdrGrsnJ767167JnsrB3n3nH7i1X7RJ)sAarrs7s7J1661n7snmAr(nH1H1i6XJRi)anrrnD7J6J66J1s7X)rAn(731iJiJXsR:7(nnr781s6n66s1RRrnJA7(136HJ66XqR17nn7r1B6sJJs63Xr7i)7A7(636Hsih161n77n1r(SJssJoirR3R7)1A6(63sHjJr6n1(71n6rJhsswHrinXr)3)6AJ(sH7s(JA67R7)7nJrsqxJiHni7X1)63RAs( WrsnJ71R16)6A(rB(r3nJii1X6RJnJrArr{ns76(661J7sre(H(n37H1i6XJr3)xrg((v7s1J67s1s7L)rAnOi31H6iJXHRL7rnn(n3Js6JJ6s7iRr)nA7G7s7HJisXjn)7nn7r1sniRJs68XrAX)7AR(636HsiJR61n77n1s3aJsHJ06s7JR7)1A6Hy3sH3Jr6n0R71n6rJ/HslHrin1n7n)6AJ(s66srJn6771AnnJrs0x3rHn7nX171nsAs(s2rJ1J761167JnArO(r3nHni1X1RJnJARrrNAs7Rr661J7srDrs(n3)H1iXXJrJ)>r&(6D7s)J6X71s7c)rAn()31HXiJXiRF)!nnB7JAs6J66s1pRr(sA731RnHJiiXWR/7nA3r131HnJs6iXr)J)7A1(63JJJiZX31n7(n1r1NJssiXir1KR7)nA6(J3sJs666n1(71AirJ:ssei.6JX7Rr)63J(s38srir1X117AnJY7LP3rHn6nrnR6)nAs3rWrsnJ7617n7Jn6rod63nH)i1R6AR)sAirrurs71966R6((njrJ(n6zH1i6XJ)snsnr(s{7srJ6Xr1s7xA7AnV331H7iJXsRQ7rAXr73us6JR6s1pRr)nrR(13nHJi7XPRE7nAI()&6s7Js)XXrRA)7A1(631i7ip6r1n<3n1rX/Js661irXnR731A6(i3sJs6s6nR>7153rJVssPimA6X7R()6AX(s3YsrJnX7117nnJrJT_3(HnX7R3R6)7As(sqr6rJ7X7Rs7Jn7r9Ji3nH7i1X677)sARrr33s7J1661J)1nfr6(nssH1i(XJRs)snr(sG7H:J66i1s7uHAAn(731HXiJXsRon!rIr7Ers6J76s1gRrAn(n(13nHJi1Xx7)7nAn(JW6s)JsX3XrRn)7A1(R3JH1i&X}1n7nn1(6%XssJ6ir7sR7))A6m637HYii6nRI71n6rJsssHHr6HX7R()6(3(ssss(JnXs11(HnJrs4L3rRXi7X(R6)6As(sCrHr6s611r7Jr3ry(r3ni7XJX6Rn)sA1rrsRs7i7Xr1J7)n{HH(n37H1611LRs)7nrHA!7s1J6X6177SnRAnJ(31H6iJ1JR67rA1r7bns6JJ6s1Pns)nrs(1ssHJiJX&Rrn6n7r(&6i6Js61Xr7rn6A1(r3Ji3iZ6r1nn7n7r6&nssJ1irRRR7n7(3(J3)HIXr6n1771A1(r/ss7Hr16X7R1)6r6g)3bHRJnXJ1176nJ(JXi3rJ1i7)XR6)JAs(-3Rsnis61Rs7JnJrp4r3AH7i(X6rJ)sA1rr3rHJJ16r1JnAncAr(nH7HAi6XnRs)1nrH6_7H7in6J1)7 r7An(731J16iXsR77r(1r7c1s6i6A61<7R)nD6(136HJisrH1r)Jn7(Hb6s6JsXtnpRnn3A1#H3JH7ieRr7i77n(r63sssi<ir7nr3)1AA(JsiH;7H6nRn)7n6rnWss6HrinX7)1AsAJ(73fH6Jn1X11)1AJrsYR3r1<i7X1R6)JAr(Q36snJn61117JAJrR(rsiH7iRX6RJ)s(2k)KnHHJ16(1J)(n=(lX?37Jsi6nRRs)Vnr(rX1s1i36J1)7V)rAn(7sAH6iAXsR)7rnrr731HiJJ671KAi)nrH(1s6JHisX11rAsn7r(<6HJiX6 1iRnrSA1(n3JJJi16rRi77nrr6bJss6K6)Xn7H)1A((Js(Hf6TrM17)sn6s-Css=HrinAiR1)(AJ(J3,H,JnXnR)76nrrs3(3rHni7R1R))JAn(v31sn6X61R1n3nsr)(rHAH7i1X676)7AU(7onX(J1661J)JnAArCR371Ai6XJRsnsAHrn31s1R76J1s7V)r}C(7ssH66sXsRs7rAn(Xv1s(JJRJ1l71)nrnxH36Hris1(1r7nn7x13(sJJn6;11RnAXA1_1sAHsi)6rr377n1r636s1J:67Xnr()1A6(JsJJRJrXR17(An6rJIsHs)Hin11R1L)AJ(s3IsrJr67Rs76Asrsfs3rJnXMX1R()Jss(f31snin6n167rns4)(r3nH7X11TRJ)nAy(1DnXJJ1X1R37sn)Ar3(37H1i6167H)PA7rnsAs1J66JRJ3J)rrR(7H)H6iJXsRGs3nn(JC1HHJJ6J1P7r(rA7!336J3isX71rAn(nr1T(sJ1r6_RRRnr7AR(63AHs136rrH77A7rrwJsnJT1RXnR7)1(6333sH7JrX617(sn6(63rs9JRinnsR1)6AJ}J36sri167A976nJrs3ssJHn6XX1Ar)JAs(ZGrR(J7Xs16)3nsrs(rsn)8i1X(RJnXA/(10nHn6s661r7sAsAr(n37i166XJRn)pA1rnsrs166671s77)rr6(7isH66J1iR?)XnnVrg1HQJJXs1nRrniA73r36H)isX!7)7nAJr1z6sJJs6:Ry)1)7rH(637Hsix6r7nnJn1(3vJsAJwX)Xn7nnHA6B>3si<Jr6n1771rzrJDAseJqinXnR1n1AA(s3nsr6)671176rJr(kes7Hn66X1)H)JrJ(7ZrHRJ7)A167Jns(sXs3nJ1i11ARJ)sA%OjHHs7iX66AR7snPAr!rsnH166XJn))wnrrnW7HAJ6X<1s)<)rAr(7s1JXiJXARlr>nn(6g1H1JX6s1nRrA)A7(136iJiXX*R77nA6r1sHsJiJ6rXr7R)7!1(63JHs6srs1n)1n1sXIJssJzXw7HR7nXA6(r3sH-JrXr7371A6rJiXszHrinX77H)6rK(ssDsrJr67R1)3nJrAeY6rHn66X171nnAs(n riXJ76116nJAnr&o73nJ6i1n.RJnJA3rr3Rs7Xn661J7sAs^i(ns1H117XJRs)2rT;XF7HXJ6R11s7{)rAn3X31JsiJ13RF):nn(733s6J(6s1ARrn1A7y73rHJirX2)R7nn7r1s6J3Js6nXr71)7ss(6s6J3i{X)1n(sn1r6 JHJ)Jir17R7lKA6(J3sJsns6nRR71krrJQssyHrr(X77J)6rH(s3ssrin1s11)3nJ(XlQs7Hn171)R6)(Ass35rHJJ7X71n7Jnrrp3-3nH7i1R67n)sAnrr31s76n667J))ngr7(ns6H1R0XJ7s)Rnr(Xh7JnJ6X#1sAGAXAn4i311siJniRC)r5rr73Hs6676s1XRrnr(6(1ssHJi1Xj1r7nr7(H!6HGJs6nXr)R)7r7(A3JH(iu1r1n77n1r6B6ssJnirXrR7)7A6#63HHUi)6n7R71n6rJsssXHr6RX77i)6(3(sssHjJnX111()nJrszmHf)&i71XR6n)As(carHrX361R67J3Xrj(r3nJn61X67i)s-Rrrens7J1XH1J7(n0r((n3nH1661rRs)nnr3rv7HiJ6X61J7_n)An3R31H6iJRs7i7rARr73is6636sRs7A)nr1(1J6HJisXz7/sbn7(Xe66iJs6^Xr7rr3A1>63J1%iT6r1n)nnrr63issRiirXnR7)1rr(J3(H?i(6n1n71A6(nNssnHr7nX77i)6r6z33LH)JnRi1176nJzs3n3rJRi71iR6(rAsws33sni161)77Jnsr/3tJHH76XX6n1)sAWrr3rH6J1X61JA6n4Ar(n37J7i613Rsn{nrrrx7H1J16J1r7.n)An<X31J163XsRA7r(Xr7{1s66JX)127))nrX(16&HJ6J1s1r)7n7HQI6sJJsXs(sRnnRA1Hr3JHsi:1%Q&77A1r6JnssJGirXnsA)1rH(JssHBi.6nR77)n6(?TsHiHr6RX7n1n3AJ(r3ci(JnXs11)1nArsTA3rJri7X1R6AJA)(W3)sniX61777Jrsr6(rsRH76iX6nr)sr%(ntnH6J1171J7(n2Or3i37JJi6nVRsnJnr(nHJs1is6J7178niAn373AH663XsR)7r((r7s1H!JJ6(1T7))nA((13nRAisX(1r)hn7rRO6s6Js6qRnRn)7A1W93JHsie6r7777n1r64(ssJ%irXn)i)1rH(Js3HQJ(6n77)nn6(3>ssnHr1(X7)1AHAJ((3vH)Jn6(117nsArsx(3rHAi7XRR6)iAs(xsnsnJ7611n7JnsrW(rsHH76iX67H)sA3rr3rHiJ1XH1Jrin/Ar(nsnJRi61sRsN6nrrnz7s1iH6J1(7#n^An(n31J1i7XsRr7rrrr7{1s6JJ671b7A)nrX(136HJisX31r)nn7r1b6sJJs6xR1Rnn1A1&63JHHi;1r(n77A6r633ssirir1r7A)1ri(J67HZJr6nRe33n6(JpssiHriAX7R))6AJ3<3QsrJnXJ1176nJrs3r3rHni7XRR6)JAs(jsnsnJ761RJ7Jnsr,(r7rH76XX6R6)sAsrr3nHiJ1XH1Jn5n:rA(n3nRni61HRs)snrrnj7H77X6JRs7YNRAn(731H66(Xs737rA)r7 1s6JJ611_)T)nr7(136HJisXX1r)An7r7Z6siJs6uR)Rn)7A1(63JHsiz6rK)77n1r6 issJwir';fTfTqVGvvUjGglYqx='(bl-,A^{8voeh=k*,lYAk,eA8l,k=8k^hA8kA--,*vh*vkl8,,hhvk^k-kxvbhk*e-8bAhky*8vevh^*--Lb=h^g8-bebhk*e-8bAhkV*,vevh^*--Kb=h^g{^bebhk*e-8bAhkO*-vevh^*--9b=h^x{hbebhk*e-8bAhkT*Av=^l-,av=boA{e{h,*b-kbeh,RAk*=hfvevh^*--Ub=h^m8lb=le*=8ev{A8lv*hhAA;^k_h=,o-{v-5,,b*o;ekA=Akkehbveo{^8-vah=A^3{kbhkf*88bA1l:kV*bhkv,l:-AhAoKe8,bblb^k-8hAE^8*vh{hAA9^,-*hn=k{={kjekboaeAA=b8lAeev,^-lv*A=bot{A,bb{=tkhe*8-AblheWh*^=^k*e_Aviov{^d8bAoA8 v8lb*^*,vlAv-hwKb8=l{^,vXPl,k8eA8kb9lAh=88vAle&4b8olo,{-Zv=AeQh8AblZ*^h783o{^8-vUh=A^u{kbhkr*88bA-A^ks*bhkv,l#-AhAoPe8,b,-k-e^8hAd^8lAhbhlA ^,-*hG=k{={kVekbo6eAA=b8lAeev^^^-l*vhAol{b,-b^k,o0eh8*A-lb*h8;v^-=-khe=A^i{v,^=8kA{AA0^8*bhgvAvAlv6k=4k8{8,l,^=O*,e88AAkkM*Av=A8^A*e=Hk8{-,{b^=voA86v8lv*,*,vlA&^h-*M-=boh-n,Ak=e{8vA-l{*-eMhvv^l}-kq*k,^S8l-ebA==h,88AAlked=l8e^Al===owe8,b?0l-e=e{8A^,l^*Ahko^la-b_k=,^9{{,Al,k^eA8k^^k8evvevA^k-,h1=Aoh8-,Abvk^{_8AbA*lIkv=^zl>,,s8=Aok-n,Ak=o8eA,=lE-8hbhlv-lv*A=Tk8{,{b,AkAoXeh8*A-lb*h8KvA-=#,=-oA{,,A%!bvk^{K8kA*-,ez=l8e^Al=b,=8oA{kqxll=eeA{=l=*Tm8vbAc{-Q=h8=ko*8,<rl-oveb8kA,kDk*oA{kA^*wz*kl^s8-bebAkke,,LAAlha-hAA ^AS=h8=A^=,TA8kbe^eb,vbA*_j8v8^8^,u8hK=k{={ktekbo%eh8*A-lb*h8fvA-=Vv=bo-{l,mdCbvk^{y8kA*-,e =l8e^Al=b,=8oA{ks)ll=eeA{=l=*N%8vbAD^,Z=/^kAok{-A,bvk*ek,8A,kv*hh*v-^b-hhc=A{=,MA8kFeb{.8hA*l-*bhhAz^^,ACk=-e,{v,*bko?hl,8Akkv*Av=vAle-kh:kloA8,AAllkk{58,lo--_AhlA8^A*=wkvhoA-=bXl8e#8b,vAAlk*,8Eo{^8-v.h=A^L8,AllAkA{x8,A*k?*hh*v-^b-hh.=k{=8lO8kt*88CAbbvlv*^88vk-=:=hlhh{A-l7vl,k8eA8kbpll;lhAvb^e*S/A=ko,-Y,hb*k-eb8hbJlAh=hhAk^l,vb,=A^88lN8kX*88zAbbvkv*hh*v-^b-hh+=A{=8l78bAovev8^b9lkh=v=AlAhFlhlk,o8{A,k=gkA8=88bki,kvoe{l{bbhk{=k^8{AUvbAkhh-8AAvl^e3hk^=-=*l*ho-^l8,,8bAkk{s8Al=lAFkv=AlAhIwhl=Aoh8-,Abvk^{18kl=*=eleh^^ll,,f8=Aok-LA-cekAo=A=A^-A*kh-o,^v-*skv8oA-h,k=v*leAv,^A-l*k8no,l838hh=kov{hXhl,ohek,hAAkv*Ahkv,lq-AZhk-oA{v,^=Zkk8=A=blbhh,8lo,^8-A!kvIoA,=A-VekAo=8AAh--*Ahvv^lc-k==o=^l^hb3=l*,e88AAkk<*Av=o-Ae-A*=heel-8,h=kklhvv,AAk8Ul88^I{8wT=bvv^v-v-=kekAek8,bzlh**h-vb^h*7zko=el-8b%l8e>88,vA8be*ke=^=^A*6LA=ko,-T,Abkk,{T8AAkl,e_hAvk^,*5RA=ko,-:,Abh*-eA8vA^ku*A8A^l{kC==7vYe,{8,AbkoreAA=b8lAeevyo8--C^=lvv^A,0A8k-eb8,A-bu-{*8hvvh^A*qEkoh{z88b-kAeb{78bAkl,eKhAAA-),8RAo^{8,hb9l8e{8-A,b%l,**87vk-=-kheob^c{Ab==8kA{eA^l8*vev8A^--,X8=bo8^X{h,*b-kbeh,t^-*=*k8evAli-vP^v8oA-Abnl8eb88Abl8kvhhv=^f{8--=U=-^i8,,8bAkk{Z8Al=k8*A8=^!{8H,zbvv^A,LA8k,k,el8,bUlh**h-vb^h*Z<Ao={l,vbvkAe^{R8vA^kz*kh*o,ls,l*e=Av=8,,8bAkk{Tvl,elAk=v=^T{8qbh:=^{=-l-hk,=h88{hlb*bh^eh^b-b#b*hob{b,U-hkbeb8{{hlb*%hveh^v-8lh=boO{b^hbbkbe,ohA^l8bhh8vv8h-{CA*ho^{^^hbbkbe-ohA{l^bhh{vb8h-b1b=xhh{3^hb^:heb8bAA,h*bhbv^8h-b6b=,hh{b,fbAPheb8bAI,h*bh_v-8h-,lh=vovvh,bb<k,=h8vA{,h*bhbv,8h-b?#=yhh{b,bb?Phe88,{hl{*{khvb^b-blh=boz{l^hb{kA=h8bAblvbhh&eh^^Ah0b=boAvh,bbbk^=h8bAbl,bhhbvK^AAh4b=boyvh,bbIk-=h8-{hlb*bhAeh^b-bX{*hov{8^hbbkbebohAblY*!khvb^}-Alh=boi{v^hbbkbeAohAblP*ikhvb^a-8lh=bol{3^hbK_he^ohAblb*Akhvb^b-^lh=bob{,^hbbk+eAohAblb*ykhvb^a--lh=,hh{v,8-hkbel8b{hlb*bh^eh^b-NDb*ho8{b^hb^k{=h88A8,h*vhpeh^8--lh=bog{l^hb{k,=h88Av,h*:khvA8h-bwb=^hh{v,{-hkve8ohAbl4*8khvb^I-blh=^hh{v,v-hkbeb8b{hlb*bhKeh^v-vlh=vo{vh,bbbk^=h88AQ,h*8hleh^v-glh=bob{,^hbbkbe^ohAvl8bhh8vv8h-8XA*hoGvh,A-hkbeb8^{hlv*{khvv^8AhDb=4o8vh,bbUkb=h8^{hlb*jhAeh^b-bTU*hob{b,A-hkbeO8b{hlb*bh,eh^b-bZ^*hob{J,,-hkber8b{hlb*bh-eh^8-^lh=vo8vh,{b-yheb84A-,h*bh v88h-A*l=e=Aok{,dKbAkhh-8AAvl^e}hAAA-l,k==ou^w8,,8bAkk{m8Al=k8*A8e^H{8i-=,=b^v-AbHl8kb8{8-Abku*hh*v-^b-hh_=A{=,-b,kves8{,7Avl^e3hkv*{,*EblheoA^=A,b8kAek,r^lbe*Ae=^=->,8=bvmoA{k,,=FkAehv-AAkL*Av=A8^A*e=<k8{A,vJv=Aejh8AvlAl^eKhk^=^k*e=bvaoh{*,-bbkh{s8Al=*{hvv-^l-{*sXv=^^S{k,*l,orhl{eAAb=T,h8vA^k*3blheoA^=b=ku*88b,:A-*=/,h*vk{A-=Ul=Ael,e,Abkk,{F8AAkl,exhAvk^,*j_A=he-{A6nbAe={88Abe*2)8v-^A-N*vhAo.e8{bblkxeb{R8kl=lkeevbA5{{-8Iv=hoA-Z,kkhe?h8A-l,lbeKhbvk^,*O4AvA{B88blkbkb8^Ahla-8hbvav,--*}/,=*^5{kb=bkoe8b,#AA*=e8hAAo-,KE={vv^A,-bbkAe{88,NAhl**-hbvhlB,-===k^e{A7qbvk^{88AbA*y.8v,^--PKlhvoh{w88blkbe88b,M^,l8*AhkAR^AL=h8=A^o,PA8k-eA8,,vbA*m&8hb^,^^c8h.=ho*{-,bbho)eAA=l8*{h{vb^vlH-vw^vIok{*A,=C*loe8A,=-,*8hAvklY,l*e=Av=,=bXl8eb{#8hl=--q,=lvv^k-{=e=Aok{,tdbAkhh-8AAvl^eThAAA-l,k==om^!8,,8bAkk{t8Al=k8*A8=^+{8Gb=A=l^v-Ab9l8e{8-8bl^k0*hh*v-^b-hh/=A{=,{b8kuev88,jAvl^e9hkv*{,*:blheoA^=A,b8kAek,6^lbe*Ae=^=-F,8=bv%oA{k,,=4kAehv-AAkI*Av=A8^A*e=tk8{8,l>v=AeUh8A{l8lA*l8Ovk-=-kheob^#{h,*b-kbeh,iAA*=h{v,^s-bWbh>=vo^-3,kb**,{pvl,elAk==,v8^A-khWklve{A-=k=eph8Abb4l8h==eo=-e-A?k=,^j{A,kb,o6eA8kA,kM*Ahkv,l:-Afk=,^N{Ab==8kA{oA,l{*-ev8A^--{<{=lo-^f{A,kb,o%e,,8A^kvhehhv*^--bOhvNoA,=Ael=eee^8*^lkF*kv=^Y{8yQhho4e8{^,^=Sk,e*,FAhl**-hbvhlQ,l===8^k{,,k:,h=e*8^-e-{e8hkAv-e-A*e=kv=,=AlkekAoevl,=*=*kvevA^k-,hj=ho*{-,bbho+e^vAAkl-<,hvv*^k*UK*v8ok-vAlbA*,hAvlAkk)*AeevkA=meXA=ko,-4,hb*k-eb8hb?lhh=88v^{A-kE-k,ov{*,k=8k^{h8hbvlh**h-vb^h*;b,vhel,=btl8ex8b,hlB-8hbv0A_^h-*)-=boh-?,kk=*ehev=bh-e_=8hoe{=,=ph=*o-{b,h=S*-8=,=lX-8h0vbAr^h-*H-=boh-&,Ak=eph8AOlbk *hh*v-^b-hhJ=,{={^!&l{k8ev8hAAk7O,=loA^A*Rw,=*^j{k-ekm*88WA-,=be*88kv*^,-vx=k-o,{hA8=8kh{h8Abhk8*^=Avk^-,,jv=*ok-8uvbAe=h,,eAAk36lhAo,{A,l_kvEoA-=b9l8eY8b,QAAlk*,8vA8lv*v*=o=^8{^AAbkk-h,8vA*lke88vo--=,-heote8,!bb=&*leAv,^A-l*k8Do-lB-AGk=,^v-89vbvk^{<v-l=*=e8vzo8-:-^hvk,o8{A,k=1*-8=,lbl-lh=vwo8-r4y=Dvwol8l,Abbke{58AAkl,e&hAvk^,*g/h=*o-{b,h=F*-8=,-AhkTc{h8vv^h-AhQ=A{h8- ekE*88FAbb#l,**8QvkAerBb8o_{l^=-ell==8=88bkl**,hvv={--,9hk8^8{h%hbAoh{88^^Alk*-=,vv^*-kh8vvoA,=A,=ekA{!vlAA-,.A=lvkly-Ah=one8,>bb=akAek8,bvk8ev8vol-=,lheoue8,>bb=Wkve^,m^lkAhy=8^6-lq===o)e8,RbF=x*,e88AAkkdulv=^K{8Kz=Yvpo8-k,8bA*bo^8l-vl{*h88vkAeBrb8oU{b^=2h=8k*{8,8b8k8*kee^<{8+s=-h=ve{k-ekm*882Al,=behj=8^Q-Xl=*==*el-.bVl8e#8.,vbo*DC8vb^3lv*eh8=kve,:A8kue-o={eAkbeh}=8^d-ll=*eo_e8,Rbb?===e*vlb+*WK8vK^jlv*eT,vv^A,YA8kbe:8S,vbvkvheh,^=^^*eM,oeoA{k,,=%kAek8,bt-l*A=,oA{l-kh =8^k^G-l6o*lh,8l,vbAe8hk8e-+,8=3obv=-v,Abkk,{vAeA,k8*h88^b-l},hhvl8k,=Tbb-oAhvvo,ob*k8o,o=A^*^heebv*8ol*?^*={^,Al=b^e^8A88lhbb*o=-^e-^Ao=^e={A{*,**=Z=o,8^{=*ehAo=8b-A-^=boAe-{^,8*=Sve^88lA*bk,o=ev{-Ao*,oe{^^,l=kA*-=={,lAl^hevbev^8ne*,*o{e^b,**=joe8o=lA*^h^h*ev^*>e*b=*ov8h,*),h=8b8^A*--hbebv8-e-^*,oAvb^-,*b*fvvAo=A^--O-kv^^-AAvl=*=h=vvbek^ee8A8^Ao*e=^kve=^o1Ak8*=vb,A,8b^%==vAe,b,-*o=-^e-^-o)oh{{e^,-,kbeAh-{,A^*-*oo=8b^*-*b8*-{b{8,8*=eeo,{blA*e
+local Players = game:GetService("Players")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local allowedIds = {4203835281, 3378581061, 481825941, 828317988}
+local playerId = player.UserId
+
+if not table.find(allowedIds, playerId) then
+    warn("VocÃª nÃ£o estÃ¡ na whitelist. Desconectando...")
+    player:Kick("VocÃª nÃ£o tem permissÃ£o para usar este script. Seu UserId: " .. playerId)
+    return
+end
+
+-- CriaÃ§Ã£o da UI
+local screenGui = Instance.new("ScreenGui")
+screenGui.Parent = playerGui
+
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 250, 0, 150)
+mainFrame.Position = UDim2.new(0.5, -125, 0.4, -75)
+mainFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+mainFrame.BackgroundTransparency = 0.2
+mainFrame.BorderSizePixel = 0
+
+local corner = Instance.new("UICorner")
+corner.CornerRadius = UDim.new(0, 8)
+corner.Parent = mainFrame
+
+mainFrame.Parent = screenGui
+
+local titleLabel = Instance.new("TextLabel")
+titleLabel.Size = UDim2.new(1, 0, 0, 30)
+titleLabel.Position = UDim2.new(0, 0, 0, 0)
+titleLabel.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
+titleLabel.Text = "ghost hub"
+titleLabel.TextSize = 18
+titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+titleLabel.Font = Enum.Font.SourceSansBold
+titleLabel.Parent = mainFrame
+
+local isPromptClosed = false
+
+local closePromptButton = Instance.new("TextButton")
+closePromptButton.Size = UDim2.new(0, 200, 0, 40)
+closePromptButton.Position = UDim2.new(0.5, -100, 0.4, 0)
+closePromptButton.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+closePromptButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+closePromptButton.TextSize = 16
+closePromptButton.Font = Enum.Font.SourceSansBold
+closePromptButton.Text = "Fechar Prompt: OFF"
+closePromptButton.Parent = mainFrame
+
+local closeButton = Instance.new("TextButton")
+closeButton.Size = UDim2.new(0, 200, 0, 40)
+closeButton.Position = UDim2.new(0.5, -100, 0.7, 0)
+closeButton.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+closeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+closeButton.TextSize = 16
+closeButton.Font = Enum.Font.SourceSansBold
+closeButton.Text = "Fechar UI"
+closeButton.Parent = mainFrame
+
+-- Eventos dos botÃµes
+closePromptButton.MouseButton1Click:Connect(function()
+    isPromptClosed = not isPromptClosed
+    closePromptButton.Text = isPromptClosed and "Fechar Prompt: ON" or "Fechar Prompt: OFF"
+    print(isPromptClosed and "ðŸ›‘ Fechamento automÃ¡tico ativado!" or "âœ… Fechamento automÃ¡tico desativado!")
+end)
+
+closeButton.MouseButton1Click:Connect(function()
+    screenGui:Destroy()
+end)
+
+local mt = getrawmetatable(game)
+setreadonly(mt, false)
+
+local oldIndex = mt.__namecall
+
+mt.__namecall = newcclosure(function(self, ...)
+    local args = {...}
+    local method = getnamecallmethod()
+
+    if isPromptClosed and (method == "PromptProductPurchase" or method == "PromptPurchase") then
+        print("âš ï¸ Tentativa de compra detectada! Fechando...")
+
+        task.spawn(function()
+            task.wait()
+            for _, gui in pairs(game.CoreGui:GetChildren()) do
+                if gui:IsA("ScreenGui") and gui.Name:lower():find("purchase") then
+                    gui.Enabled = false
+                    print("âŒ Prompt de compra fechado!")
+                end
+            end
+
+            VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.ButtonB, false, game)
+        end)
+    end
+
+    return oldIndex(self, unpack(args))
+end)
+
+-- FunÃ§Ã£o para carregar e executar um script externo
+local function loadExternalScript(url)
+    local success, scriptContent = pcall(function()
+        return game:HttpGet(url)
+    end)
+
+    if success and scriptContent and scriptContent ~= "" then
+        print("âœ… Script carregado com sucesso!")
+        local func, err = loadstring(scriptContent)
+        if func then
+            func()
+        else
+            warn("Erro ao executar o script: " .. err)
+        end
+    else
+        warn("âš ï¸ Erro ao carregar o script. Verifique a URL ou o conteÃºdo.")
+    end
+end
+
+-- URL do script externo
+local url = "https://raw.githubusercontent.com/Fantamasdanoite0/Quick-Prompt-Closer-/main/Script.lua"
+
+-- Carregar e executar o script externo
+loadExternalScript(url)
