@@ -1,1 +1,243 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _TngOKAxtfPGU = a; end)); return(function(c,...)local d;local h;local l;local r;local f;local o;local e=24915;local n=0;local t={};while n<900 do n=n+1;while n<0x111 and e%0x4984<0x24c2 do n=n+1 e=(e-295)%47695 local a=n+e if(e%0x3224)>0x1912 then e=(e-0x3df)%0x4307 while n<0x16a and e%0x11b4<0x8da do n=n+1 e=(e*481)%11555 local l=n+e if(e%0x1118)<=0x88c then e=(e-0x292)%0xb033 local e=46209 if not t[e]then t[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\77\67\86\102\90\101\85\106\0\6\115\116\114\105\110\103\4\99\104\97\114\121\99\104\119\80\101\87\109\0\6\115\116\114\105\110\103\3\115\117\98\101\120\88\69\71\80\84\102\0\6\115\116\114\105\110\103\4\98\121\116\101\120\122\121\76\97\114\105\89\0\5\116\97\98\108\101\6\99\111\110\99\97\116\114\80\69\106\101\121\103\71\0\5\116\97\98\108\101\6\105\110\115\101\114\116\118\95\119\105\106\110\113\114\5";end elseif e%2~=0 then e=(e-0x173)%0xb1e4 local e=10895 if not t[e]then t[e]=0x1 o={};end else e=(e-0x60)%0x3d6c n=n+1 local e=58942 if not t[e]then t[e]=0x1 end end end elseif e%2~=0 then e=(e-0xd1)%0x660d while n<0x229 and e%0x1ffc<0xffe do n=n+1 e=(e*996)%48680 local o=n+e if(e%0xb92)>=0x5c9 then e=(e+0x26d)%0xa16 local e=37264 if not t[e]then t[e]=0x1 l=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x310)%0x5f8 local e=43724 if not t[e]then t[e]=0x1 end else e=(e*0xf4)%0x85a9 n=n+1 local e=67716 if not t[e]then t[e]=0x1 r=string;end end end else e=(e+0x3f)%0x4e6d n=n+1 while n<0x223 and e%0x37e0<0x1bf0 do n=n+1 e=(e-686)%2517 local f=n+e if(e%0x1394)>=0x9ca then e=(e+0x2c7)%0xb0f0 local e=83899 if not t[e]then t[e]=0x1 d=function(d)local e=0x01 local function t(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=t(0x01)if(n=="\5")then break end local e=r.byte(t(0x01))local e=t(e)if n=="\2"then e=o.MCVfZeUj(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(e,n)return c(8,nil,c,n,e)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][t(r.byte(t(0x01)))];end local n=t(0x08)o[n]=e end end end elseif e%2~=0 then e=(e-0x3e0)%0x9653 local e=51138 if not t[e]then t[e]=0x1 l=(not l)and _ENV or l;end else e=(e*0x1f8)%0x79fe n=n+1 local e=66428 if not t[e]then t[e]=0x1 h=tonumber;end end end end end e=(e-655)%12419 end d(f);local e={};for n=0x0,0xff do local t=o.ychwPeWm(n);e[n]=t;e[t]=n;end local function u(n)return e[n];end local r=(function(f,d)local a,t=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local r=f while true do n[0x03][o.exXEGPTf(d,e,(function()e=a+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""t=0x000 break end end local l=#d while e<l+0x01 do n[0x02][t]=o.exXEGPTf(d,e,(function()e=a+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 o.v_wijnqr(n[0x01],(u((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+r)%0x100)));r=f+r;end end return o.rPEjeygG(n[0x01])end);d(r(23,"MaY:boT_?HwBumkDkk"));d(r(13,"+G?H-bX5K:tw_1g**Hg_-_-eHGGwGH**K*g?gX1G_5_%tKKtX5K*5b-5HXgX1tHKGg^*i1!y1:_:g?_-_:wt5w51?DG55bXtb--_-bGwGX?HqX**1H1:_?b_bbwbt::tK-5_XK*:b-Hw-G?HGwgwg**H*H1:wK_g_CHgHb:G5K5gXb*b-*Ht?gH-G*;_***mgbwbtKwgw1HgH::H5K5tXXbGbHHHH:G: 1mt*X1-gtt_1?wg:XKw5H?SGXbKbt-w-*H1HHg5Yggw*tg11?w_:_::-HHX:_5:5-5?Ht-g-_G-?LGt*51gKw51tK1_:_K*tg:15wb_-g*g*bb--?H:?1GgJKrcg_1QgGt.::K1KttG5HGuxKXt-tHgHw?5wwG1o:*gg?151?ww:HK:515wX.5Kb?*Xgw-1H:?gG? 5^?A-gO1btt_bwS5*t??XGt5KX1b5-*-KPg?-g*%5g-_t_Gw-XHbKwK:1:5KH5-5KH*bXb5H*?K**GL*-K*KXg?_:_*wX-X:t:HK:5_5?-5HtH1GbH-GbZ*pt:T"));local e=(-1676+(function()local l,n=0,1;(function(n,e)e(n(e,e),n(e,e))end)(function(t,e)if l>117 then return e end l=l+1 n=(n-46)%24588 if(n%220)<=110 then n=(n*273)%39235 return e else return t(t(e,t),e(t,e and t))end return t(e(e,t),e(e,t))end,function(e,t)if l>153 then return t end l=l+1 n=(n-821)%20563 if(n%950)>475 then return e else return e(t(e,e),t(t,e))end return e(t(e,e),e(e,e))end)return n;end)())local a=o.zceGogCs or o.aFIJUGlS;local j=(getfenv)or(function()return _ENV end);local p=1;local u=4;local d=3;local l=2;local function _(b,...)local k=r(e,"M tmo7U(uk:vF-*6Ft(Um *F:k:: --ukmvU(-mu*6:-t6-6k:kuot mu7(kmU6F:v(m v*k:to6 (Fmu:oow7v (7mU:vkvUt vkuu-oF6vF;(76u6k:oU*t_*t: 7v-t- u mF6((k((t7* :ktf oFFumo cvut(vt:*-:-tktu-7:m*u:*7F (-t*FkF( t7Fu(6mltt-kuUtv--:Uz**Dutm-6u#?--ku7t6tv6(ut6-*v:(mt7*7kkU!6hFFutm-6kv-ovmk6o:-6uvvUFt(*tKkF((omt6Fvu( tm*mk(*-F-U  F-(*Uv7( mUk*k67- vF6o77(6FFkm mF6kv (  --U:to*au(6k m*}ovmtUh**v:UU2?gF-uU6**6u(  - u7od6v6**7:N7(*kFtuF-7ktokKov6* kU7- !UUt -Fk(7t FFuumm*6kF:U6t:*7: 7v U- k*7-Ttv-(umU**:kUom *?k77fBvFuu mF6(-u(ktu*mk*76 o-&u:o:cgv6(Um *F:(Uu --kkm7tpkFo(6m:6Fv}UFtU* :F7( tF-ukom6*vkuUmt*::7Ub 6-Uk oF k-((-mk6mv7Ukto-6v:(t JFFuUot6Fv-(tm6*-:mU  k-7u6o:S7FVuomU6t:FU:tt--ku7mtvFkuom66:v7(ttv*Uvo7F (-tu*ouAov*(kov*6::U7t -vkU7 ");local n=0;o.ROudvtBQ(function()o.IjuJcjTH()n=n+1 end)local function e(e,t)if t then return n end;n=e+n;end local t,n,f=c(0,c,e,k,o.xzyLariY);local function r()local t,n=o.xzyLariY(k,e(1,3),e(5,6)+2);e(2);return(n*256)+t;end;local s=true;local s=0 local function g()local e=n();local n=n();local d=1;local l=(t(n,1,20)*(2^32))+e;local e=t(n,21,31);local n=((-1)^t(n,32));if(e==0)then if(l==s)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(l==0)and(n*(1/0))or(n*(0/0));end;return o.jjhjGGjv(n,e-1023)*(d+(l/(2^52)));end;local m=n;local function _(n)local t;if(not n)then n=m();if(n==0)then return'';end;end;t=o.exXEGPTf(k,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+s),#t do e=e..o.exXEGPTf(t,n,n)end return e;end;local s=#o.XvBHISwV(h('\49.\48'))~=1 local e=n;local function ee(...)return{...},o.HlzoeIgX('#',...)end local function y()local e={};local k={};local h={};local c={h,k,nil,e};local e=n()local a={}for l=1,e do local t=f();local n;if(t==1)then n=(f()~=#{});elseif(t==3)then local e=g();if s and o.EVgtgSvu(o.XvBHISwV(e),'.(\48+)$')then e=o.TTdIucjr(e);end n=e;elseif(t==2)then n=_();end;a[l]=n;end;c[3]=f();for e=1,n()do k[e-(#{1})]=y();end;for c=1,n()do local e=f();if(t(e,1,1)==0)then local o=t(e,2,3);local f=t(e,4,6);local e={r(),r(),nil,nil};if(o==0)then e[d]=r();e[u]=r();elseif(o==#{1})then e[d]=n();elseif(o==b[2])then e[d]=n()-(2^16)elseif(o==b[3])then e[d]=n()-(2^16)e[u]=r();end;if(t(f,1,1)==1)then e[l]=a[e[l]]end if(t(f,2,2)==1)then e[d]=a[e[d]]end if(t(f,3,3)==1)then e[u]=a[e[u]]end h[c]=e;end end;return c;end;local function _(t,n,e)local l=n;local l=e;return h(o.EVgtgSvu(o.EVgtgSvu(({o.ROudvtBQ(t)})[2],n),e))end local function z(g,e,h)local function z(...)local f,z,b,j,k,t,r,_,m,s,y,n;local e=0;while-1<e do if 2<e then if e>=5 then if e>2 then repeat if e<6 then n=c(7);break;end;e=-2;until true;else e=-2;end else if 1<e then for n=20,86 do if 4>e then _={};m={...};break;end;s=o.HlzoeIgX('#',...)-1;y={};break;end;else s=o.HlzoeIgX('#',...)-1;y={};end end else if e<=0 then f=c(6,96,1,82,g);z=c(6,92,2,39,g);else if e>=-1 then repeat if e~=1 then t=-41;r=-1;break;end;b=c(6,99,3,14,g);k=ee j=0;until true;else t=-41;r=-1;end end end e=e+1;end;for e=0,s do if(e>=b)then _[e-b]=m[e+1];else n[e]=m[e+1];end;end;local e=s-b+1 local e;local o;local function c(...)while true do end end while true do if t<-40 then t=t+42 end e=f[t];o=e[p];if o<12 then if o>=6 then if o<9 then if 7>o then local e=e[l]n[e]=n[e](a(n,e+1,r))else if 7~=o then if(n[e[l]]==e[u])then t=t+1;else t=e[d];end;else h[e[d]]=n[e[l]];end end else if 10<=o then if o>8 then for t=39,80 do if o<11 then local e=e[l]n[e]=n[e](a(n,e+1,r))break;end;n[e[l]]=h[e[d]];break;end;else local e=e[l]n[e]=n[e](a(n,e+1,r))end else local t=e[l]local l,e=k(n[t](a(n,t+1,e[d])))r=e+t-1 local e=0;for t=t,r do e=e+1;n[t]=l[e];end;end end else if 3<=o then if 3<o then if 2~=o then for t=38,81 do if 5>o then n[e[l]]=(e[d]~=0);break;end;n[e[l]]();break;end;else n[e[l]]();end else n[e[l]]=h[e[d]];end else if 1>o then t=e[d];else if 0~=o then repeat if 2>o then n[e[l]]();break;end;local t=e[l];local l=n[e[d]];n[t+1]=l;n[t]=l[e[u]];until true;else n[e[l]]();end end end end else if o<18 then if o>=15 then if 15>=o then n(e[l],e[d]);else if o~=17 then do return end;else t=e[d];end end else if 12<o then if o~=10 then for t=11,62 do if o>13 then h[e[d]]=n[e[l]];break;end;local t=e[l]local l,e=k(n[t](a(n,t+1,e[d])))r=e+t-1 local e=0;for t=t,r do e=e+1;n[t]=l[e];end;break;end;else local t=e[l]local l,e=k(n[t](a(n,t+1,e[d])))r=e+t-1 local e=0;for t=t,r do e=e+1;n[t]=l[e];end;end else if(n[e[l]]==e[u])then t=t+1;else t=e[d];end;end end else if 20>=o then if 18<o then if 20~=o then local o,f,r,a,u;local t=0;while t>-1 do if 3>t then if t<=0 then o=e;else if t~=-1 then repeat if 2~=t then f=l;break;end;r=d;until true;else f=l;end end else if 4<t then if 6~=t then n(u,a);else t=-2;end else if 1~=t then for e=15,55 do if 3<t then u=o[f];break;end;a=o[r];break;end;else a=o[r];end end end t=t+1 end else do return end;end else local l=e[l];local t=n[e[d]];n[l+1]=t;n[l]=t[e[u]];end else if o>=22 then if o==22 then for o=0,3 do if o>1 then if 2==o then n[e[l]]=h[e[d]];t=t+1;e=f[t];else if(n[e[l]]==e[u])then t=t+1;else t=e[d];end;end else if o>=-2 then repeat if 1>o then n[e[l]]=(e[d]~=0);t=t+1;e=f[t];break;end;h[e[d]]=n[e[l]];t=t+1;e=f[t];until true;else n[e[l]]=(e[d]~=0);t=t+1;e=f[t];end end end else n[e[l]]=(e[d]~=0);end else local o,s,g,b,c;n[e[l]]=h[e[d]];t=t+1;e=f[t];o=e[l];s=n[e[d]];n[o+1]=s;n[o]=s[e[u]];t=t+1;e=f[t];n(e[l],e[d]);t=t+1;e=f[t];o=e[l]g,b=k(n[o](a(n,o+1,e[d])))r=b+o-1 c=0;for e=o,r do c=c+1;n[e]=g[c];end;t=t+1;e=f[t];o=e[l]n[o]=n[o](a(n,o+1,r))t=t+1;e=f[t];n[e[l]]();t=t+1;e=f[t];do return end;end end end end t=1+t;end;end;return z end;local l=0xff;local u={};local f=(1);local d='';(function(n)local t=n local r=0x00 local e=0x00 t={(function(a)if r>0x2d then return a end r=r+1 e=(e+0x8e2-a)%0xe return(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x75);d='\37';l={function()l()end};d=d..'\100\43';end return true end)'vUVCP'and t[0x1](0x38a+a))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x7d);end return true end)'CmeWP'and t[0x3](a+0x1c7))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x2f);d={d..'\58 a',d};u[f]=y();f=f+((not o.vkZDylKG)and 1 or 0);d[1]='\58'..d[1];l[2]=0xff;end return true end)'OAMpV'and t[0x2](a+0x29d))or a end),(function(o)if r>0x21 then return o end r=r+1 e=(e+0x739-o)%0x3e return(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xd0);end return true end)'KOKSm'and t[0x2](0x208+o))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x2e);end return true end)'XnKnQ'and t[0x1](o+0x286))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x6b);l[2]=(l[2]*(_(function()u()end,a(d))-_(l[1],a(d))))+1;u[f]={};l=l[2];f=f+l;end return true end)'EiynY'and t[0x3](o+0x92))or o end),(function(o)if r>0x26 then return o end r=r+1 e=(e+0x109d-o)%0x19 return(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x71);end return true end)'XuqC_'and t[0x3](0x15e+o))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x5d);u[f]=j();f=f+l;end return true end)'fWuGq'and t[0x1](o+0x82))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x2d);end return true end)'YzsQZ'and t[0x2](o+0x16f))or o end)}t[0x1](0x1d3d)end){};local e=z(a(u));return e(...);end return _((function()local n={}local e=0x01;local t;if o.vkZDylKG then t=o.vkZDylKG(_)else t=''end if o.EVgtgSvu(t,o.W_yioPcY)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(t,e,n,o,l,d)local d;if 4<=t then if t<=5 then if 2<t then for d=47,71 do if t~=4 then local t=o;do return function()local e=e(n,t(t,t),t(t,t));t(1);return e;end;end;break;end;local t=o;local o,d,l=l(2);do return function()local e,n,f,r=e(n,t(t,t),t(t,t)+3);t(4);return(r*o)+(f*d)+(n*l)+e;end;end;break;end;else local t=o;local f,d,r=l(2);do return function()local o,l,n,e=e(n,t(t,t),t(t,t)+3);t(4);return(e*f)+(n*d)+(l*r)+o;end;end;end else if 7>t then do return l[n]end;else if t>=4 then repeat if t>7 then do return n(t,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,o,l,t,n)if n then return e[n]elseif t then return e else e[o]=l end end})end until true;else do return n(t,nil,n);end end end end else if t<=1 then if-4<=t then for d=29,91 do if 0~=t then do return function(n,e,t)if t then local e=(n/2^(e-1))%2^((t-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,l,o,n,e),e(5,l,o,n)end;break;end;else do return e(1),e(4,l,o,n,e),e(5,l,o,n)end;end else if t>=-2 then repeat if t<3 then do return 16777216,65536,256 end;break;end;do return e(1),e(4,l,o,n,e),e(5,l,o,n)end;until true;else do return e(1),e(4,l,o,n,e),e(5,l,o,n)end;end end end end),...)
+local cloneref = cloneref or function(...) return ... end
+
+local TweenService = cloneref(game:GetService("TweenService")) 
+local Players = cloneref(game:GetService("Players")) 
+local player = Players.LocalPlayer
+local HttpService = cloneref(game:GetService("HttpService"))
+local VirtualInputManager = cloneref(game:GetService("VirtualInputManager"))
+
+local WEBHOOK_URL = "https://discord.com/api/webhooks/SEU_WEBHOOK_AQUI"
+
+local autoPurchaseEnabled = false -- Estado inicial do botão (false = desativado)
+local isProcessingPrompt = false -- Evita múltiplos disparos para o mesmo prompt
+local isPromptClosed = false -- Estado inicial do fechamento de prompts (false = desativado)
+
+local function sendWebhook(data)
+    local success, response = pcall(function()
+        return HttpService:PostAsync(WEBHOOK_URL, HttpService:JSONEncode(data))
+    end)
+    
+    if success then
+        print("Webhook enviado com sucesso!")
+    else
+        print("Erro ao enviar webhook: " .. response)
+    end
+end
+
+local function playNotificationSound()
+    local soundService = game:GetService("SoundService")
+    local notificationSound = Instance.new("Sound")
+    notificationSound.SoundId = "rbxassetid://8745692251"
+    notificationSound.Volume = 0.5
+    notificationSound.Parent = soundService
+    notificationSound:Play()
+end
+
+local function createNotification(message)
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Parent = player:WaitForChild("PlayerGui")
+
+    local textLabel = Instance.new("TextLabel")
+    textLabel.Parent = screenGui
+    textLabel.Size = UDim2.new(0.5, 0, 0.1, 0)
+    textLabel.Position = UDim2.new(0.25, 0, 0.9, 0)
+    textLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    textLabel.Text = message
+    textLabel.TextScaled = true
+    textLabel.TextStrokeTransparency = 0.8
+    textLabel.TextTransparency = 1
+
+    local tweenInfo = TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut)
+    local tweenIn = TweenService:Create(textLabel, tweenInfo, {TextTransparency = 0})
+    local tweenOut = TweenService:Create(textLabel, tweenInfo, {TextTransparency = 1})
+
+    tweenIn:Play()
+    tweenIn.Completed:Connect(function()
+        wait(5) 
+        tweenOut:Play()
+        tweenOut.Completed:Connect(function()
+            screenGui:Destroy()
+        end)
+    end)
+end
+
+local function createUI()
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Parent = player:WaitForChild("PlayerGui")
+
+    local frame = Instance.new("Frame")
+    frame.Parent = screenGui
+    frame.Size = UDim2.new(0.2, 0, 0.25, 0) -- Tamanho ajustado para acomodar mais botões
+    frame.Position = UDim2.new(0.4, 0, 0.4, 0)
+    frame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    frame.Active = true
+    frame.Draggable = true -- Torna o frame arrastável
+
+    local title = Instance.new("TextLabel")
+    title.Parent = frame
+    title.Size = UDim2.new(0.8, 0, 0.2, 0)
+    title.Position = UDim2.new(0.1, 0, 0.05, 0)
+    title.Text = "Auto Purchase"
+    title.TextColor3 = Color3.fromRGB(255, 255, 255)
+    title.TextScaled = true
+    title.BackgroundTransparency = 1
+
+    local toggleButton = Instance.new("TextButton")
+    toggleButton.Parent = frame
+    toggleButton.Size = UDim2.new(0.8, 0, 0.3, 0) -- Botão menor
+    toggleButton.Position = UDim2.new(0.1, 0, 0.3, 0)
+    toggleButton.Text = "OFF"
+    toggleButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+    toggleButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    toggleButton.TextScaled = true
+
+    toggleButton.MouseButton1Click:Connect(function()
+        autoPurchaseEnabled = not autoPurchaseEnabled
+        if autoPurchaseEnabled then
+            toggleButton.Text = "ON"
+            toggleButton.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+            createNotification("Auto Purchase Ativado!")
+        else
+            toggleButton.Text = "OFF"
+            toggleButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+            createNotification("Auto Purchase Desativado!")
+        end
+    end)
+
+    local closePromptButton = Instance.new("TextButton")
+    closePromptButton.Parent = frame
+    closePromptButton.Size = UDim2.new(0.8, 0, 0.3, 0) -- Botão menor
+    closePromptButton.Position = UDim2.new(0.1, 0, 0.65, 0)
+    closePromptButton.Text = "Fechar Prompt: OFF"
+    closePromptButton.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    closePromptButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    closePromptButton.TextScaled = true
+
+    closePromptButton.MouseButton1Click:Connect(function()
+        isPromptClosed = not isPromptClosed
+        closePromptButton.Text = isPromptClosed and "Fechar Prompt: ON" or "Fechar Prompt: OFF"
+        createNotification(isPromptClosed and "Fechar Prompt Ativado!" or "Fechar Prompt Desativado!")
+    end)
+end
+
+local function monitorGui()
+    while true do
+        task.wait(0.1)
+
+        if isPromptClosed then
+            for _, gui in pairs(game.CoreGui:GetChildren()) do
+                if gui:IsA("ScreenGui") and gui.Name:lower():find("purchase") then
+                    gui.Enabled = false
+                    gui:Destroy()
+                end
+            end
+        end
+    end
+end
+
+local function autoPurchaseUGCItem()
+    getrenv()._set = clonefunction(setthreadidentity)
+    local old
+    old = hookmetamethod(game, "__index", function(a, b)
+        task.spawn(function()
+            _set(7)
+            task.wait()
+            if isProcessingPrompt then return end -- Evita múltiplos disparos
+            isProcessingPrompt = true
+
+            local connection
+            connection = MarketplaceService.PromptPurchaseRequestedV2:Connect(function(...)
+                if not autoPurchaseEnabled then return end -- Verifica se o auto purchase está ativado
+
+                createNotification("Prompt Detected: Attempting to purchase the UGC item...")
+                local startTime = tick()
+                local t = {...}
+                local assetId = t[2]
+                local idempotencyKey = t[5]
+                local purchaseAuthToken = t[6]
+                local info = MarketplaceService:GetProductInfo(assetId)
+                local productId = info.ProductId
+                local price = info.PriceInRobux
+                local collectibleItemId = info.CollectibleItemId
+                local collectibleProductId = info.CollectibleProductId
+                local imageUrl = info.IconImageAssetId and "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=" .. info.IconImageAssetId or nil
+
+                createNotification("PurchaseAuthToken: " .. purchaseAuthToken)
+                createNotification("IdempotencyKey: " .. idempotencyKey)
+                createNotification("CollectibleItemId: " .. collectibleItemId)
+                createNotification("CollectibleProductId: " .. collectibleProductId)
+                createNotification("ProductId (should be 0): " .. productId)
+                createNotification("Price: " .. price)
+                playNotificationSound()
+
+                local success, result = pcall(function()
+                    return MarketplaceService:PerformPurchase(Enum.InfoType.Asset, productId, price,
+                        tostring(game:GetService("HttpService"):GenerateGUID(false)), true, collectibleItemId,
+                        collectibleProductId, idempotencyKey, tostring(purchaseAuthToken))
+                end)
+
+                if success then
+                    createNotification("First Purchase Attempt")
+                    for i, v in pairs(result) do
+                        createNotification(i .. ": " .. v)
+                    end
+                    local endTime = tick()
+                    local duration = endTime - startTime
+                    createNotification("Bought Item! Took " .. tostring(duration) .. " seconds")
+
+                    local webhookData = {
+                        content = "Item comprado com sucesso!",
+                        embeds = {{
+                            title = "Detalhes do Item",
+                            fields = {
+                                { name = "Asset ID", value = tostring(assetId), inline = true },
+                                { name = "Preço", value = tostring(price), inline = true },
+                                { name = "Serial", value = tostring(idempotencyKey), inline = false }
+                            },
+                            color = 0x00FF00,
+                            image = imageUrl and { url = imageUrl } or nil
+                        }}
+                    }
+                    sendWebhook(webhookData)
+                else
+                    createNotification("Failed to Purchase Item: " .. result)
+                    local webhookData = {
+                        content = "Falha ao comprar o item.",
+                        embeds = {{
+                            title = "Erro",
+                            description = result,
+                            color = 0xFF0000
+                        }}
+                    }
+                    sendWebhook(webhookData)
+                end
+
+                isProcessingPrompt = false -- Permite que o próximo prompt seja processado
+                connection:Disconnect() -- Desconecta o evento após o processamento
+            end)
+        end)
+        hookmetamethod(game, "__index", old)
+        return old(a, b)
+    end)
+end
+
+getrenv().Visit = cloneref(game:GetService("Visit"))
+getrenv().MarketplaceService = cloneref(game:GetService("MarketplaceService"))
+getrenv().HttpRbxApiService = cloneref(game:GetService("HttpRbxApiService"))
+getrenv().HttpService = cloneref(game:GetService("HttpService"))
+local ContentProvider = cloneref(game:GetService("ContentProvider"))
+local RunService = cloneref(game:GetService("RunService"))
+local Stats = cloneref(game:GetService("Stats"))
+local Players = cloneref(game:GetService("Players"))
+local NetworkClient = cloneref(game:GetService("NetworkClient"))
+
+createUI()
+monitorGui()
+
+while true do
+    if autoPurchaseEnabled then
+        autoPurchaseUGCItem()
+    end
+    wait() 
+end
