@@ -4,13 +4,11 @@ local TweenService = cloneref(game:GetService("TweenService"))
 local Players = cloneref(game:GetService("Players")) 
 local player = Players.LocalPlayer
 local HttpService = cloneref(game:GetService("HttpService"))
-local VirtualInputManager = cloneref(game:GetService("VirtualInputManager"))
 
 local WEBHOOK_URL = "https://discord.com/api/webhooks/SEU_WEBHOOK_AQUI"
 
-local autoPurchaseEnabled = false -- Estado inicial do botão (false = desativado)
-local isProcessingPrompt = false -- Evita múltiplos disparos para o mesmo prompt
-local isPromptClosed = false -- Estado inicial do fechamento de prompts (false = desativado)
+local autoPurchaseEnabled = false 
+local isProcessingPrompt = false 
 
 local function sendWebhook(data)
     local success, response = pcall(function()
@@ -68,15 +66,15 @@ local function createUI()
 
     local frame = Instance.new("Frame")
     frame.Parent = screenGui
-    frame.Size = UDim2.new(0.2, 0, 0.25, 0) -- Tamanho ajustado para acomodar mais botões
+    frame.Size = UDim2.new(0.2, 0, 0.15, 0) 
     frame.Position = UDim2.new(0.4, 0, 0.4, 0)
     frame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
     frame.Active = true
-    frame.Draggable = true -- Torna o frame arrastável
+    frame.Draggable = true 
 
     local title = Instance.new("TextLabel")
     title.Parent = frame
-    title.Size = UDim2.new(0.8, 0, 0.2, 0)
+    title.Size = UDim2.new(0.8, 0, 0.3, 0)
     title.Position = UDim2.new(0.1, 0, 0.05, 0)
     title.Text = "Auto Purchase"
     title.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -85,8 +83,8 @@ local function createUI()
 
     local toggleButton = Instance.new("TextButton")
     toggleButton.Parent = frame
-    toggleButton.Size = UDim2.new(0.8, 0, 0.3, 0) -- Botão menor
-    toggleButton.Position = UDim2.new(0.1, 0, 0.3, 0)
+    toggleButton.Size = UDim2.new(0.8, 0, 0.4, 0) -- Botão menor
+    toggleButton.Position = UDim2.new(0.1, 0, 0.4, 0)
     toggleButton.Text = "OFF"
     toggleButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
     toggleButton.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -104,36 +102,6 @@ local function createUI()
             createNotification("Auto Purchase Desativado!")
         end
     end)
-
-    local closePromptButton = Instance.new("TextButton")
-    closePromptButton.Parent = frame
-    closePromptButton.Size = UDim2.new(0.8, 0, 0.3, 0) -- Botão menor
-    closePromptButton.Position = UDim2.new(0.1, 0, 0.65, 0)
-    closePromptButton.Text = "Fechar Prompt: OFF"
-    closePromptButton.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
-    closePromptButton.TextColor3 = Color3.fromRGB(255, 255, 255)
-    closePromptButton.TextScaled = true
-
-    closePromptButton.MouseButton1Click:Connect(function()
-        isPromptClosed = not isPromptClosed
-        closePromptButton.Text = isPromptClosed and "Fechar Prompt: ON" or "Fechar Prompt: OFF"
-        createNotification(isPromptClosed and "Fechar Prompt Ativado!" or "Fechar Prompt Desativado!")
-    end)
-end
-
-local function monitorGui()
-    while true do
-        task.wait(0.1)
-
-        if isPromptClosed then
-            for _, gui in pairs(game.CoreGui:GetChildren()) do
-                if gui:IsA("ScreenGui") and gui.Name:lower():find("purchase") then
-                    gui.Enabled = false
-                    gui:Destroy()
-                end
-            end
-        end
-    end
 end
 
 local function autoPurchaseUGCItem()
@@ -143,12 +111,12 @@ local function autoPurchaseUGCItem()
         task.spawn(function()
             _set(7)
             task.wait()
-            if isProcessingPrompt then return end -- Evita múltiplos disparos
+            if isProcessingPrompt then return end 
             isProcessingPrompt = true
 
             local connection
             connection = MarketplaceService.PromptPurchaseRequestedV2:Connect(function(...)
-                if not autoPurchaseEnabled then return end -- Verifica se o auto purchase está ativado
+                if not autoPurchaseEnabled then return end 
 
                 createNotification("Prompt Detected: Attempting to purchase the UGC item...")
                 local startTime = tick()
@@ -213,8 +181,8 @@ local function autoPurchaseUGCItem()
                     sendWebhook(webhookData)
                 end
 
-                isProcessingPrompt = false -- Permite que o próximo prompt seja processado
-                connection:Disconnect() -- Desconecta o evento após o processamento
+                isProcessingPrompt = false 
+                connection:Disconnect() 
             end)
         end)
         hookmetamethod(game, "__index", old)
@@ -233,11 +201,10 @@ local Players = cloneref(game:GetService("Players"))
 local NetworkClient = cloneref(game:GetService("NetworkClient"))
 
 createUI()
-monitorGui()
 
 while true do
     if autoPurchaseEnabled then
         autoPurchaseUGCItem()
     end
-    wait() 
+    wait()
 end
